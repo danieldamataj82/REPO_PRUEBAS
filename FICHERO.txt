@@ -1,2 +1,3 @@
 FICHERO
 agrego linea
+modifico fichero de new
